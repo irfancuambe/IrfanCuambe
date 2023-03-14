@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IrfanCuambe
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently leaning Informatics Curse
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently leaning Informatics
 - 📫 How to reach me ...
 
 <!---
